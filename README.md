@@ -59,6 +59,10 @@ gradle clean test
 <a href="https://c.radikal.ru/c40/2112/d9/e6eb62018cbb.jpg"><img src="https://c.radikal.ru/c40/2112/d9/e6eb62018cbb.jpg" alt="e6eb62018cbb" border="0"></a>
 
 
+### Хранение тестовой документации в Allure TestOps
+
+<a href="https://ibb.co/hFm683d"><img src="https://i.ibb.co/G0Lwp0L/allure-Test-Ops.jpg" alt="allure-Test-Ops" border="0"></a>
+
 ### Видео о прохождении тестов
 
 <a href="https://ibb.co/hFm683d"><img src="https://i.ibb.co/fdxg0jN/videoselen-1.gif" alt="videoselen-1" border="0"></a>
